@@ -33,8 +33,5 @@
                 
 </p>
 
-<!-- Light Mode -->
-![Snake animation](https://github.com/{your-username}/{your-username}/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Dark Mode -->
-![Snake animation](https://github.com/{your-username}/{your-username}/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/{ElrheaDeSouza}/{ElrheaDeSouza}/blob/output/github-contribution-grid-snake-dark.svg)
