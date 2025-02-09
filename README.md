@@ -34,4 +34,4 @@
 </p>
 
 <!-- Dark Mode -->
-![Snake animation](https://github.com/{ElrheaDeSouza}/{ElrheaDeSouza}/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/ElrheaDeSouza/ElrheaDeSouza/output/github-contribution-grid-snake-dark.svg)
