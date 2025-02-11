@@ -33,5 +33,8 @@
                 
 </p>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ElrheaDeSouza)](https://git.io/streak-stats)
+
 <!-- Dark Mode -->
 ![Snake animation](https://raw.githubusercontent.com/ElrheaDeSouza/ElrheaDeSouza/output/github-contribution-grid-snake-dark.svg)
