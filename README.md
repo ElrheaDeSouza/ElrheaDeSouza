@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elrhea De Souza</h1>
 <h3 align="center">A passionate Computer engineering student from India</h3>
 
-🔭 I’m currently working on improving my skills in AIML and Web Dev<br>🌱 I’m currently learning React<br>💬 Ask me about C/C++, Python<br>⚡ Fun fact: I can switch from debugging to writing poetry — it’s my idea of “balance.”
+🔭 I’m currently working on improving my skills in AIML and Web Dev<br>🌱 I’m currently learning React<br>💬 Ask me about C/C++, Python<br>⚡ Fun fact: I once named a variable HOPE and then watched it slowly die through every iteration of the loop.
 
 
 ## 🌐 Socials:
